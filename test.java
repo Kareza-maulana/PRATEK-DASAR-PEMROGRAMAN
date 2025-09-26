@@ -6,7 +6,6 @@ public class test{
     public static void main(String[] args) {
         System.out.println("halo dairu");
         System.out.println("halo kareza");
-
-
+        System.out.println("tugas daspro mari");
     }
 }
