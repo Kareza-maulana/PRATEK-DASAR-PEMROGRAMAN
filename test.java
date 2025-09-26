@@ -7,5 +7,6 @@ public class test{
         System.out.println("halo dairu");
         System.out.println("halo kareza");
         System.out.println("tugas daspro mari");
+        System.out.println();
     }
 }
